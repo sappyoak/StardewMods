@@ -1,0 +1,17 @@
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+.vs/
+
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+*.env
